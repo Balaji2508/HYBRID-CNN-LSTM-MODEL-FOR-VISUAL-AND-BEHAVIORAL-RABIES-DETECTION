@@ -1,0 +1,41 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Dataset
+dataset/
+datasets/
+data/
+*.mp4
+*.avi
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model checkpoints
+*.h5
+*.keras
+*.pth
+*.pt
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
